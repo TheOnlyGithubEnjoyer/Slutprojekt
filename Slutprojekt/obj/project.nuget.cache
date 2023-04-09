@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+ew+2Jmh3hGzEmmG4LP/dfOIHSJCqxWArWbxB0LQBabcMjtxSn7/nXvXvrKCID0KJ8xYOoDn5r9xtNo1d89Ow==",
+  "dgSpecHash": "s4po/4G9sDCswoSiS4j7jO39kU2hE2GlVGt89i5ZZA5XCkNS9WjMkgLCESLguZTQuRH+NI/8DLwEkFC1dhgGkQ==",
   "success": true,
   "projectFilePath": "c:\\Users\\walker.elliot\\Documents\\Spel\\Slutprojekt\\Slutprojekt\\Slutprojekt.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\walker.elliot\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\walker.elliot\\.nuget\\packages\\restsharp\\110.1.0\\restsharp.110.1.0.nupkg.sha512",
+    "C:\\Users\\walker.elliot\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\walker.elliot\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\walker.elliot\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\walker.elliot\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

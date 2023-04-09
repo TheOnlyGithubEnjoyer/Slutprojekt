@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Raylib-cs" Version="4.2.0.2" />
+    <PackageReference Include="RestSharp" Version="110.1.0" />
+  </ItemGroup>
+
 </Project>
